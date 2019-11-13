@@ -17,39 +17,39 @@ class Blog extends Component {
   <FooterSection type="middle">
       <FooterDropDownSection title="Features">
           <FooterLinkList>
-              <a href="/#">About</a>
-              <a href="/#">Terms</a>
-              <a href="/#">Partners</a>
-              <a href="/#">Updates</a>
+              <a href="_blank">About</a>
+              <a href="_blank">Terms</a>
+              <a href="_blank">Partners</a>
+              <a href="_blank">Updates</a>
           </FooterLinkList>
       </FooterDropDownSection>
       <FooterDropDownSection title="Details">
           <FooterLinkList>
-              <a href="/#">Specs</a>
-              <a href="/#">Tools</a>
-              <a href="/#">Resources</a>
+              <a href="_blank">Specs</a>
+              <a href="_blank">Tools</a>
+              <a href="_blank">Resources</a>
           </FooterLinkList>
       </FooterDropDownSection>
       <FooterDropDownSection title="Technology">
           <FooterLinkList>
-              <a href="/#">How it works</a>
-              <a href="/#">Patterns</a>
-              <a href="/#">Usage</a>
-              <a href="/#">Products</a>
-              <a href="/#">Contracts</a>
+              <a href="_blank">How it works</a>
+              <a href="_blank">Patterns</a>
+              <a href="_blank">Usage</a>
+              <a href="_blank">Products</a>
+              <a href="_blank">Contracts</a>
           </FooterLinkList>
       </FooterDropDownSection>
       <FooterDropDownSection title="FAQ">
           <FooterLinkList>
-              <a href="/#">Questions</a>
-              <a href="/#">Answers</a>
-              <a href="/#">Contact Us</a>
+              <a href="_blank">Questions</a>
+              <a href="_blank">Answers</a>
+              <a href="_blank">Contact Us</a>
           </FooterLinkList>
       </FooterDropDownSection>
   </FooterSection>
   <FooterSection type="bottom" logo="Title">
       <FooterLinkList>
-          <a href="/#">Privacy & Terms</a>
+          <a href="_blank">Privacy & Terms</a>
       </FooterLinkList>
   </FooterSection>
 </Footer>
