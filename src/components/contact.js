@@ -25,11 +25,11 @@ class Contact extends Component {
 
             <div className="contact-list">
             <h4>Phone</h4>
-            <p>+90 534 034 55 53</p>
+            <p><a href="callto://+905340345553">+90 534 034 55 53</a></p>
             <h4>Email</h4>
-            <p>yalcinkayaumut@outlook.com</p>
+            <p><a href = "mailto:yalcinkayaumut@outlook.com">yalcinkayaumut@outlook.com</a></p>
             <h4>Skype</h4>
-            <p>live:yalcinkayaumut</p>
+            <p><a href="skype:+905340345553?call">live:yalcinkayaumut</a></p>
             </div>
           </Cell>
         </Grid>

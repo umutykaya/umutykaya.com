@@ -49,7 +49,7 @@ class Resume extends Component {
                />
 
               <h2>Experience</h2>
-              // eslint-disable-next-line
+  
               <Experience
               startYear={2018}
               endYear="Currently"
