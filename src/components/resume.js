@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 import { Grid, Cell,Footer,FooterLinkList,FooterDropDownSection,FooterSection  } from 'react-mdl';
-import Education from './education';
-import Experience from './experience.js';
-import Skills from './skills';
+import Education from './resume/education.js';
+import Experience from './resume/experience.js';
+import Skills from './resume/skills';
 
 class Resume extends Component {
   render() {
     return(
-      <div>
+      <div >
         <Grid>
           <Cell col={6}>
             <div style={{textAlign: 'center'}}>
@@ -26,11 +26,11 @@ class Resume extends Component {
             <h5>Address</h5>
             <p>Caferağa mah. Osman Zeki Üngör sokağı <br/> Beziray apt. No:1/8  34710  <br/> Kadıköy/İstanbul</p>
             <h5>Phone</h5>
-            <p>+90 534 034 55 53</p>
+            <p><a href="callto://+905340345553">+90 534 034 55 53</a></p>
             <h5>Email</h5>
-            <p>yalcinkayaumut@outlook.com</p>
+            <p><a href = "mailto:yalcinkayaumut@outlook.com">yalcinkayaumut@outlook.com</a></p>
             <h5>Web</h5>
-            <p>www.umutyalcinkaya.work</p>
+            <p><a href="url">www.umutyalcinkaya.work</a></p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
           </Cell>
           <Cell className="resume-right-col" col={6}>
@@ -54,7 +54,7 @@ class Resume extends Component {
               startYear={2018}
               endYear="Currently"
               jobName="BSH GmbH"
-              role="Business Intelligence Consultant"
+              position="Business Intelligence Consultant"
               jobDescription="Amazon Web Services Architecture and SageMaker Data Science solutions. Hybrid model architecture.
               Apache Spark distributed systems big data software development.
               EMR Zeppelin and R-Studio experience on Text Mining. AWS translate service integration.
@@ -63,12 +63,12 @@ class Resume extends Component {
               Tableua integration as analytical visualization dashboards. AWS Athena + Tableua.
               Video Conferences with global colleagues from Berlin,Munich, Barcelona, Paris and India."
               />
-
+            
               <Experience
               startYear={2018}
               endYear="Currently"
               jobName="Itelligence AG"
-              role="Business Intelligence Consultant"
+              position="Business Intelligence Consultant"
               jobDescription="Working as a data science consultant."
               />
 
@@ -76,7 +76,7 @@ class Resume extends Component {
                 startYear={2017}
                 endYear={2018}
                 jobName="Biletino"
-                role="Software Developer"
+                position="Software Developer"
                 jobDescription="Worked on an integration of Turkcell BİP messaging platform for Biletino. ASP.NET queries and system maintenance. Fixes on old API.
                 Experimental and case studies have been done with Google’s “Polymer UI library”, asynchronous web development. Progressive web application, PRPL pattern assumptions are investigated and implemented a few assets for future
                 works."
@@ -85,7 +85,7 @@ class Resume extends Component {
                 startYear={2017}
                 endYear={2017}
                 jobName="Turkcell"
-                role="Software Engineering Intern"
+                position="Software Engineering Intern"
                 jobDescription="Developed test automation via JMeter API, cooperation with a senior colleague.
                 Built-in tests were made, scalable, highly available, and modular software products.
                 Worked on Java Spring framework and SOAP procedures.
@@ -98,7 +98,7 @@ class Resume extends Component {
                 startYear={2017}
                 endYear={2017}
                 jobName="Vestel"
-                role="IP-Multimedia Intern"
+                position="IP-Multimedia Intern"
                 jobDescription="Designed and developed transactional and analytical data structures.
                 Built, tested and deployed scalable, highly available and modular software products.
                 Modified existing software to correct errors, adapt to new hardware and improve performance.
