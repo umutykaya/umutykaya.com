@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Grid, Cell,Footer,FooterLinkList,FooterDropDownSection,FooterSection  } from 'react-mdl';
-import Education from '../resume/education.js';
-import Experience from '../resume/experience.js';
-import Skills from '../resume/skills.js';
+import Education from './resume/education.js';
+import Experience from './resume/experience.js';
+import Skills from './resume/skills';
 
 class Resume extends Component {
   render() {
