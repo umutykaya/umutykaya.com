@@ -24,6 +24,24 @@ class Resume extends Component {
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <p>Principled software engineering, conversational assistance bots, big data cloud operations, software architecture, Postgresql database management, machine learning, end-to-end application delivery for multi environments, advanced analytics, IOT signal processing, data management, supervised learning, kaizen, strategic thinking, business logic.</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
+              <h2>Skills</h2>
+              <Skills
+                skill="Cloud Computing"
+                progress={100}
+                />
+                <Skills
+                  skill="HTML/CSS"
+                  progress={80}
+                  />
+                  <Skills
+                    skill="Javascript"
+                    progress={50}
+                    />
+                    <Skills
+                      skill="Python"
+                      progress={50}
+                      />
+            <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
             <h5>Address</h5>
             <p>Caferağa mah. Osman Zeki Üngör sokağı <br/> Beziray apt. No:1/8  34710  <br/> Kadıköy/İstanbul</p>
             <h5>Phone</h5>
@@ -110,24 +128,7 @@ class Resume extends Component {
                 Remotely accessed enterprise customers system, debug and fix related issues on their systems announced as 'Bayi Tv' Project.
                 Optimized 'V-Ticket' system by testing and implementing contexts of related branch."
                 />
-              <hr style={{borderTop: '3px solid #e22947'}} />
-              <h2>Skills</h2>
-              <Skills
-                skill="javascript"
-                progress={100}
-                />
-                <Skills
-                  skill="HTML/CSS"
-                  progress={80}
-                  />
-                  <Skills
-                    skill="NodeJS"
-                    progress={50}
-                    />
-                    <Skills
-                      skill="React"
-                      progress={25}
-                      />
+              
 
 
           </Cell>
