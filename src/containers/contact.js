@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-
+import Footer from '../components/footerpage'
 
 class Contact extends Component {
   render() {
@@ -35,6 +35,7 @@ class Contact extends Component {
             </div>
           </Cell>
         </Grid>
+        <Footer></Footer>
       </div>
     )
   }
