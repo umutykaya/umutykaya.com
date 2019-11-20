@@ -22,6 +22,11 @@
   display: flex;
 }
 
+.container {
+  margin-bottom: 50px;
+  bottom: 50em;
+}
+
 /* Resume Page css */
 .resume-right-col {
   background: #27221F;
@@ -44,7 +49,6 @@
   text-align: center;
   justify-content: center;
   width: 80%;
-  height: 550px;
   background: white;
   color: black;
   margin-bottom: 20px;
@@ -119,11 +123,11 @@
 }
 /* Footer Style */
 .footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
+  position: relative;
+  margin:auto;
   width: 100%;
   background-color: red;
   color: white;
-  text-align: center;
+  text-align: left;
+  
 }

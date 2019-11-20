@@ -35,6 +35,7 @@ class Contact extends Component {
             </div>
           </Cell>
         </Grid>
+        
         <Footer></Footer>
       </div>
     )
