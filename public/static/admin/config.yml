@@ -2,9 +2,9 @@ publish_mode: editorial_workflow
 backend:
   name: github
   repo: umutykaya/amplifyapp
-  base_url: https://umutyalcinkaya.com
+  base_url: https://test.umutyalcinkaya.work
   auth_endpoint: /oauth/auth
-site_id: test.umutyalcinkaya.com
+site_id: test.umutyalcinkaya.work
 media_folder: "static/images" 
 public_folder: "/images" 
 collections:
