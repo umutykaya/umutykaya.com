@@ -16,7 +16,10 @@ class Landing extends Component {
             <div className="banner-text">
               <h1>Data Scientist</h1>
               <hr></hr>
-              <p>HTML/CSS | Java | JavaScript | React | Vue | Swift | Python</p>
+              <p> Cloud Computing | Data Lake | Analytics
+                <br/>
+                Python | Java | Java Script | Shell | Spark
+              </p>
             </div>
           </Cell>
        </Grid>
