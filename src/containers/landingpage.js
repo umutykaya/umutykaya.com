@@ -18,7 +18,7 @@ class Landing extends Component {
               <hr></hr>
               <p> Cloud Computing | Data Lake | Analytics
                 <br/>
-                Python | Java | Java Script | Shell | Spark
+                Python | Java | Java Script | Shell | Spark | Docker
               </p>
             </div>
           </Cell>
