@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
-import Footer from '../components/footerpage'
 
 class Blog extends Component {
   render() {
@@ -14,7 +13,6 @@ class Blog extends Component {
           </div>
         </Cell>
      </Grid>
-   <Footer></Footer>
     </div>
     )
   }

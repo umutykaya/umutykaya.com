@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
-import Footer from '../components/footerpage'
 
 class Projects extends Component {
   constructor(props) {
@@ -159,8 +158,6 @@ class Projects extends Component {
             <div className="content">{this.toggleCategories()}</div>
           </Cell>
         </Grid>
-      <Footer></Footer>
-
       </div>
     )
   }
