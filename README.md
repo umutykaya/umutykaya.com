@@ -8,10 +8,20 @@ s
 
 # Start App
 Clone repo, install, cd into folder and run:
-```
+```Bash
 npm install
 npm start
 ```
+### Contribution
+In order to review code, new features should be pushed to test branch.
+After test done, merge test with master.
+
+```Bash
+git checkout -b test
 ```
+
+Test URL: https://test.umutyalcinkaya.work/
+
+```Bash
 git push origin develop:master
 ```
