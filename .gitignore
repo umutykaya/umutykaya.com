@@ -1,6 +1,10 @@
 # exclude node modules
 *node_modules/*
 
+# exclude vscode 
+.vscode/
+.vscode-test/
+
 # exclude others
 .node_modules
 .DS_Store
