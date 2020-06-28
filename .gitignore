@@ -1,13 +1,9 @@
-### OSX ###
-*.DS_Store
-.AppleDouble
-.LSOverride
+# exclude node modules
+*node_modules/*
 
-### Node ###
-*.node_modules
-node_modules/*
-
-# Logs
-logs
-*.log
-npm-debug.log*
+# exclude others
+.node_modules
+.DS_Store
+.env
+.venv
+npm-debug.log
