@@ -10,7 +10,7 @@ class Contact extends Component {
           <Cell col={6}>
             <h2>Umut Yalçınkaya</h2>
             <img
-              src="https://umutyalcinkaya.s3-eu-west-1.amazonaws.com/images/bye.png"
+              src="https://umutyalcinkaya.s3.eu-west-1.amazonaws.com/images/bye.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4W6RACP2TSKB7THC%2F20201115%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201115T164733Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=842a58f2eed93e85928d291685abbda273f2b7b331c9e69d9cb9246ba4323cfe"
               alt="avatar"
               style={{ height: '250px' }}
             />
