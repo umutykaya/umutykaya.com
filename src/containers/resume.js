@@ -74,7 +74,20 @@ class Resume extends Component {
 
             <Experience
               startYear={2020}
-              endYear="Currently"
+              endYear='Currently'
+              jobName="Commencis"
+              position="Cloud Engineer"
+              jobDescription="Working as a Cloud Engineer to support customers using AWS, GCP and Azure.
+              Main focuses are on cloud automation, cost optimization, serverless, IAC and Analytical Storage.
+              Besides, gaining competency in DevOps practises.
+
+              Data Engineering experience such as Google Analytics, Facebook Ads and Snowflake DWH.
+              "
+            />
+
+            <Experience
+              startYear={2020}
+              endYear={2020}
               jobName="Itelligence AG"
               position="Data Science Consultant - B/S/H/"
               jobDescription="Working as a data science consultant."
