@@ -12,7 +12,7 @@ class Resume extends Component {
           <Cell col={6}>
             <div style={{ textAlign: 'center' }}>
               <img
-                src="https://umutyalcinkaya.s3.eu-west-1.amazonaws.com/images/curios.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4W6RACP2TQUS6ZYK%2F20201130%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201130T085706Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5849051f1245ad28092058942aed3b39532233fb09f4b5142ce78a7453b85cd2"
+                src="https://umutyalcinkaya.s3.eu-west-1.amazonaws.com/images/curios.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4W6RACP2TQUS6ZYK%2F20201209%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20201209T182019Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e154e3717a8af3fbed2bf8851702c21243f65787e2f82245c6db8ea19a9a7db0"
                 alt="avatar"
                 style={{ height: '200px' }}
               />
