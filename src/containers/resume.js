@@ -20,7 +20,7 @@ class Resume extends Component {
             </div>
 
             <h2 style={{ paddingTop: '0.5em' }}>Umut Yalçınkaya</h2>
-            <h4 style={{ color: 'grey' }}>Data Engineer</h4>
+            <h4 style={{ color: 'grey' }}>Cloud Engineer</h4>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
             <p>Principled software engineering, conversational assistance bots, big data cloud operations, software architecture, Postgresql database management, machine learning, end-to-end application delivery for multi environments, advanced analytics, IOT signal processing, data management, supervised learning, kaizen, strategic thinking, business logic.</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
@@ -82,7 +82,7 @@ class Resume extends Component {
               Main focuses are on cloud automation, cost optimization, serverless, IAC and Analytical Storage.
               Besides, gaining competency in DevOps practises.
 
-              Data Engineering experience such as Google Analytics, Facebook Ads and Snowflake DWH.
+              Cloud Engineering experience such as Google Analytics, Facebook Ads and Snowflake DWH.
               "
             />
 
