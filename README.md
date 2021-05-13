@@ -21,7 +21,7 @@ After test done, merge test with master.
 git checkout -b test
 ```
 
-Test URL: https://test.umutyalcinkaya.com/
+Test URL: https://test.umutykaya.com/
 
 ```Bash
 git push origin develop:master
