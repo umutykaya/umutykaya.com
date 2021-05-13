@@ -11,7 +11,7 @@ const Main = () => (
   <Switch>
     <Route exact path="/" component={LandingPage} />
     <Route path='/blog' component={() => {
-      window.location.href = 'https://blog.umutyalcinkaya.work';
+      window.location.href = 'https://blog.umutykaya.com';
       return null;
     }} />
     <Route path="/contact" component={Contact} />
