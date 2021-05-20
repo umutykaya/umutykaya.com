@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell } from 'react-mdl';
+import { Grid, Cell, Footer, FooterSection, FooterLinkList } from 'react-mdl';
 import hello from './../img/hi.png';
 
 class Landing extends Component {
@@ -24,6 +24,21 @@ class Landing extends Component {
             </div>
           </Cell>
        </Grid>
+       <Footer size="mega" className="footer-list">
+          <FooterSection type="bottom">
+            <FooterLinkList>
+            </FooterLinkList>
+          </FooterSection>
+          <FooterSection type="bottom">
+            <FooterLinkList>
+            </FooterLinkList>
+          </FooterSection>
+          <FooterSection type="bottom" >
+            <FooterLinkList className="footer-part">
+            © {new Date().getFullYear()} Built with ♥️ by {` `}<a href="https://umutykaya.com/">umutyalcinkaya</a>
+            </FooterLinkList>
+          </FooterSection>
+        </Footer>
        
       </div>
     )
