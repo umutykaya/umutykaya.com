@@ -16,14 +16,14 @@ class Projects extends Component {
             <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>React framework</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
                 <CardActions border>
-                  <Button colored>GitHub</Button>
-                  <Button colored>CodePen</Button>
-                  <Button colored>Live Demo</Button>
+                  <Button colored><a href="https://github.com/umutykaya/amplifyapp">Article</a></Button>
+                  <Button colored><a href="https://github.com/umutykaya/amplifyapp">Github</a></Button>
+                  <Button colored><a href="http://umutykaya.com">Live Demo</a></Button>
                 </CardActions>
                 <CardMenu style={{ color: 'rgb(63,81,181)' }}>
                   <IconButton name="share" />
@@ -34,7 +34,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -52,7 +52,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -71,7 +71,7 @@ class Projects extends Component {
             <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -89,7 +89,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -107,7 +107,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -132,7 +132,7 @@ class Projects extends Component {
           <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Spring Framework</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Flask Framework</CardTitle>
                 <CardText>
                   Spring Boot React sample Employee application
             </CardText>
@@ -150,9 +150,9 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Django Framework</CardTitle>
                 <CardText>
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+                  Django Starter Application 
             </CardText>
                 <CardActions border>
                   <Button colored>GitHub</Button>
@@ -168,7 +168,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -187,7 +187,7 @@ class Projects extends Component {
             <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -205,7 +205,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -223,7 +223,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://cdn.iconscout.com/icon/free/png-512/python-1-226045.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -266,7 +266,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -284,7 +284,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -303,7 +303,7 @@ class Projects extends Component {
             <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -321,7 +321,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -339,7 +339,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -364,13 +364,13 @@ class Projects extends Component {
           <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png) center / cover'}}>Spring Framework</CardTitle>
+              <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}></CardTitle>
                 <CardText>
                   Spring Boot React sample Employee application
             </CardText>
                 <CardActions border>
                   <Button colored>Article</Button>
-                  <Button colored><a href="https://github.com/umutykaya/spring-boot-react">Github</a></Button>
+                  <Button colored><a href="https://github.com/umutykaya/cdk-spring-pipeline">Github</a></Button>
                   <Button colored><a href="http://spring.umutykaya.com">Live Demo</a></Button>
                 </CardActions>
                 <CardMenu style={{ color: 'rgb(63,81,181)' }}>
@@ -382,7 +382,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -400,7 +400,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -419,7 +419,7 @@ class Projects extends Component {
             <Cell col={4}>
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -437,7 +437,7 @@ class Projects extends Component {
 
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -455,7 +455,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
+              <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://www.dasithsblog.com/images/aws-cloud-development-kit.png) center / cover'}}>Welcome</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -482,7 +482,7 @@ class Projects extends Component {
     return (
       <div>
         <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({ activeTab: tabId })} ripple>
-          <Tab>React</Tab>
+          <Tab>Javascript</Tab>
           <Tab>Python</Tab>
           <Tab>Java</Tab>
           <Tab>Typescript</Tab>
