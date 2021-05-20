@@ -72,6 +72,7 @@ class Projects extends Component {
               {/* Project 1 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>React Framework</CardTitle>
+
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -90,6 +91,7 @@ class Projects extends Component {
               {/* Project 2 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>React Framework</CardTitle>
+
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
             </CardText>
@@ -107,6 +109,7 @@ class Projects extends Component {
 
               {/* Project 3 */}
               <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+
               <CardTitle style={{color: 'rgb(63,81,181)', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2048px-React-icon.svg.png) center / cover'}}>React Framework</CardTitle>
                 <CardText>
                   Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
