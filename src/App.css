@@ -120,10 +120,14 @@
 /* Footer Style */
 .footer {
   position: fixed;
+  align-items: ;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: red;
   color: white;
-  text-align: center;
+  text-align: right;
+}
+a {
+  text-decoration: none;
 }
