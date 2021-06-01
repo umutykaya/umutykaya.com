@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton, Footer, FooterSection, FooterLinkList } from 'react-mdl';
+import { Tabs, Tab, Grid, Cell, Card, CardTitle, CardText, CardActions, Button, CardMenu, IconButton } from 'react-mdl';
 
 class Projects extends Component {
   constructor(props) {
@@ -497,23 +497,6 @@ class Projects extends Component {
             <div className="content">{this.toggleCategories()}</div>
           </Cell>
         </Grid>
-        <Footer size="mega" className="footer-list">
-          <FooterSection type="bottom">
-            <FooterLinkList>
-            </FooterLinkList>
-          </FooterSection>
-          <FooterSection type="bottom">
-            <FooterLinkList>
-            </FooterLinkList>
-          </FooterSection>
-          <FooterSection type="bottom" >
-            <FooterLinkList className="footer-part">
-            © {new Date().getFullYear()} Built with ♥️ by
-            {` `}
-            <a href="https://umutykaya.com/">umutyalcinkaya</a>
-            </FooterLinkList>
-          </FooterSection>
-        </Footer>
       </div>
     )
   }

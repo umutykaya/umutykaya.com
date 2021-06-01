@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell, Footer, FooterSection, FooterLinkList } from 'react-mdl';
+import { Grid, Cell } from 'react-mdl';
 import bye from './../img/bye.png';
 
 class Contact extends Component {
@@ -35,24 +35,6 @@ class Contact extends Component {
             </div>
           </Cell>
         </Grid>
-        <Footer size="mega" className="footer-list">
-          <FooterSection type="bottom">
-            <FooterLinkList>
-            </FooterLinkList>
-          </FooterSection>
-          <FooterSection type="bottom">
-            <FooterLinkList>
-            </FooterLinkList>
-          </FooterSection>
-          <FooterSection type="bottom" >
-            <FooterLinkList className="footer-part">
-            © {new Date().getFullYear()} Built with ♥️ by
-            {` `}
-            <a href="https://umutykaya.com/">umutyalcinkaya</a>
-            </FooterLinkList>
-          </FooterSection>
-        </Footer>   
-
           <footer>
             
           </footer>
