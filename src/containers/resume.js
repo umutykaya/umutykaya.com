@@ -20,7 +20,7 @@ class Resume extends Component {
             </div>
 
             <h2 style={{ paddingTop: '0.5em' }}>Umut Yalçınkaya</h2>
-            <h4 style={{ color: 'grey' }}>Cloud Engineer</h4>
+            <h4 style={{ color: 'grey' }}>Senior Software Engineer</h4>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
             <p>Principled software engineering, conversational assistance bots, big data cloud operations, software architecture, Postgresql database management, machine learning, end-to-end application delivery for multi environments, advanced analytics, IOT signal processing, data management, supervised learning, kaizen, strategic thinking, business logic.</p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
@@ -53,7 +53,7 @@ class Resume extends Component {
             <h5>Email</h5>
             <p><a href="mailto:yalcinkayaumut@outlook.com">yalcinkayaumut@outlook.com</a></p>
             <h5>Web</h5>
-            <p><a href="url">www.umutyalcinkaya.com</a></p>
+            <p><a href="url">www.umutykaya.com</a></p>
             <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
           </Cell>
           <Cell className="resume-right-col" col={6}>
@@ -68,19 +68,30 @@ class Resume extends Component {
               schoolDescription="Established Bahcesehir University Ski-Snowboard (BAUKIŞ), officiated Co-Founder and Chairman.
               In the season of 2014-2015 Turkish national university league of ski-snowboard competition champion as 1st place in country wide category of grand slalom.
               In the season of 2014-2015, as well as team BAUKIŞ charged gold medal in snowboard.
-              “Yazılım-Bİlişim Kulübü” board member and organization crew member."
+              “Yazılım-Bilişim Kulübü” board member and organization crew member."
             />
 
             <h2>Experience</h2>
 
             <Experience
+              startYear={2021}
+              endYear="Currently"
+              jobName="Capgemini - Blue Harvest"
+              position="Senior Software Engineer"
+              jobDescription="Working as a senior software engineer at Capgemini Financial Services. 
+              Consulting for financial companies for their data and delivery strategies.
+              "
+            />
+
+            <Experience
               startYear={2020}
-              endYear='Currently'
+              endYear={2021}
               jobName="Commencis"
               position="Cloud Engineer"
               jobDescription="Working as a Cloud Engineer to support customers using AWS, GCP and Azure.
               Main focuses are on cloud automation, cost optimization, serverless, IAC and Analytical Storage.
-              Besides, gaining competency in DevOps practises.
+              Besides, gaining competency in DevOps practises. 
+              Also, enhanced our clients' data analytics and microservice architecture. 
 
               Cloud Engineering experience such as Google Analytics, Facebook Ads and Snowflake DWH.
               "
@@ -89,7 +100,7 @@ class Resume extends Component {
             <Experience
               startYear={2020}
               endYear={2020}
-              jobName="Itelligence AG"
+              jobName="NTT Data Business Solutions"
               position="Data Science Consultant - B/S/H/"
               jobDescription="Working as a data science consultant."
             />
@@ -97,7 +108,7 @@ class Resume extends Component {
             <Experience
               startYear={2018}
               endYear={2020}
-              jobName="Itelligence AG"
+              jobName="NTT Data Business Solutions"
               position="Business Intelligence Consultant - B/S/H/"
               jobDescription="Amazon Web Services Architecture and SageMaker Data Science solutions. Hybrid model architecture.
               Apache Spark distributed systems big data software development.
