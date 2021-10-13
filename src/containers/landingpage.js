@@ -15,7 +15,7 @@ class Landing extends Component {
             />
 
             <div className="banner-text">
-              <h1>Cloud Engineer</h1>
+              <h1>Senior Software Engineer</h1>
               <hr></hr>
               <p> Cloud Computing | Data Lake | Analytics
                 <br/>
