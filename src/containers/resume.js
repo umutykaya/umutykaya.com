@@ -74,7 +74,7 @@ class Resume extends Component {
             <h2>Experience</h2>
 
             <Experience
-              startYear={2021}
+              startYear={Oct 2021}
               endYear="Currently"
               jobName="Capgemini - Blue Harvest"
               position="Senior Software Engineer"
@@ -84,8 +84,8 @@ class Resume extends Component {
             />
 
             <Experience
-              startYear={2020}
-              endYear={2021}
+              startYear={Jun 2020}
+              endYear={Aug 2021}
               jobName="Commencis"
               position="Cloud Engineer"
               jobDescription="Working as a Cloud Engineer to support customers using AWS, GCP and Azure.
@@ -98,16 +98,16 @@ class Resume extends Component {
             />
 
             <Experience
-              startYear={2020}
-              endYear={2020}
+              startYear={Feb 2020}
+              endYear={May 2020}
               jobName="NTT Data Business Solutions"
               position="Data Science Consultant - B/S/H/"
               jobDescription="Working as a data science consultant."
             />
 
             <Experience
-              startYear={2018}
-              endYear={2020}
+              startYear={Nov 2018}
+              endYear={Feb 2020}
               jobName="NTT Data Business Solutions"
               position="Business Intelligence Consultant - B/S/H/"
               jobDescription="Amazon Web Services Architecture and SageMaker Data Science solutions. Hybrid model architecture.
@@ -120,8 +120,8 @@ class Resume extends Component {
             />
 
             <Experience
-              startYear="2017"
-              endYear="2018 4 Month"
+              startYear={Dec 2017}
+              endYear={Apr 2017}
               jobName="Biletino"
               position="Software Developer - Part Time"
               jobDescription="Worked on an integration of Turkcell BİP messaging platform for Biletino. ASP.NET queries and system maintenance. Fixes on old API.
@@ -129,8 +129,8 @@ class Resume extends Component {
                 works."
             />
             <Experience
-              startYear={2017}
-              endYear="2 Month"
+              startYear={July 2017}
+              endYear={Sep 2017}
               jobName="Turkcell"
               position="Software Engineering Intern"
               jobDescription="Developed test automation via JMeter API, cooperation with a senior colleague.
@@ -142,8 +142,8 @@ class Resume extends Component {
                 In the project called 'Turkcell Smart Cloud' and gave feedback to the employees of the system related to integration of the department's cloud environment."
             />
             <Experience
-              startYear={2016}
-              endYear="2 Month"
+              startYear={July 2016}
+              endYear={Sep 2016}
               jobName="Vestel"
               position="IP-Multimedia Intern"
               jobDescription="Designed and developed transactional and analytical data structures.
