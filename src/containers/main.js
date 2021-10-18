@@ -3,7 +3,6 @@ import { Switch, Route } from 'react-router-dom';
 
 import LandingPage from './landingpage';
 import Contact from './contact';
-import Projects from './projects';
 import Resume from './resume';
 
 
@@ -15,7 +14,6 @@ const Main = () => (
       return null;
     }} />
     <Route path="/contact" component={Contact} />
-    <Route path="/projects" component={Projects} />
     <Route path="/resume" component={Resume} />
   </Switch>
 )
